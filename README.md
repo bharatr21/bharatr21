@@ -58,6 +58,6 @@ This was generated from [GitHub Streak Stats](https://git.io/streak-stats)
 
 #### A quick, inspiring Introduction to Machine Learning:
 
-<img alt="ML Introduction GIF" src="https://github.com/bharatr21/bharatr21/blob/main/assets/pictures/MLIntro.gif" />
+<img alt="ML Introduction GIF" src="https://github.com/bharatr21/bharatr21/blob/main/assets/MLIntro.gif" />
 
 This introduction was taken from [here](https://gifer.com/en/8Pu6)
