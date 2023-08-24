@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
 
-- 🔭 I’m currently working on [Datasets](https://github.com/huggingface/datasets/) and [Transformer](https://github.com/huggingface/transformers/) architectures
+- 🔭 I’m currently exploring [Large Language Models](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/)
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/), [TensorFlow](https://github.com/tensorflow/tensorflow) and the [FastAI Course](https://course.fast.ai/)
 - 💬 Ask me about anything [here](https://github.com/bharatr21/bharatr21/issues)
 
