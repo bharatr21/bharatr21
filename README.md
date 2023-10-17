@@ -20,7 +20,7 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/), [TensorFlow](https://github.com/tensorflow/tensorflow) and the [FastAI Course](https://course.fast.ai/)
 - 💬 Ask me about anything [here](https://github.com/bharatr21/bharatr21/issues)
 
-I'm a contributor to [HacktoberFest 2022](https://hacktoberfest.com/)
+I'm a contributor to [HacktoberFest 2023](https://hacktoberfest.com/)
 [![@bharatr's Holopin board](https://holopin.me/bharatr)](https://holopin.io/@bharatr)
 
 
