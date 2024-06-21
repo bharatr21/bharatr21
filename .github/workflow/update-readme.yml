@@ -1,0 +1,19 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          EMPTY_COMMIT_MSG: "📝 Keeping workflow active after 60 days of inactivity"
+          MAX_LINES: 10
