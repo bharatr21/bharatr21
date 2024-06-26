@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. Just added this section, testing an action.
+1. 💪 Opened PR [#16](https://github.com/Human-Augment-Analytics/NFHM/pull/16) in [Human-Augment-Analytics/NFHM](https://github.com/Human-Augment-Analytics/NFHM)
 <!--END_SECTION:activity-->
 
 ---
