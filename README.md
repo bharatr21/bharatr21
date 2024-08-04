@@ -54,7 +54,7 @@ This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/git
 This was generated from [GitHub Streak Stats](https://git.io/streak-stats)
 
 #### Bharat's LeetCode Stats! [LC Profile](https://leetcode.com/bharatr)
-[![Bharat's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bharatr)](https://github.com/KnlnKS/leetcode-stats)
+[![Bharat's LeetCode stats](https://leetcard.jacoblin.cool/bharatr?font=roboto&ext=activity&hide=ranking)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 #### A quick, inspiring Introduction to Machine Learning:
 
