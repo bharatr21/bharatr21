@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/custinsights/custinsights.github.io/pull/2) in [custinsights/custinsights.github.io](https://github.com/custinsights/custinsights.github.io)
+1. 🎉 Merged PR [#3](https://github.com/bharatr21/bharatr21/pull/3) in [bharatr21/bharatr21](https://github.com/bharatr21/bharatr21)
 <!--END_SECTION:activity-->
 
 ---
