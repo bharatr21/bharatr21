@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-stats",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node -r sucrase/register src",
+    "build": "sucrase ./src -d ./build --transforms typescript,imports",
+    "start": "node build"
+  },
+  "devDependencies": {
+    "@types/node": "15.3.0",
+    "npm-run-all": "4.1.5",
+    "sucrase": "3.18.1",
+    "typescript": "4.2.4"
+  },
+  "dependencies": {
+    "graphql": "15.5.0",
+    "graphql-request": "3.4.0"
+  }
+}
