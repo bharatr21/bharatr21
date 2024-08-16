@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/bharatr21/HackerNews-Scraper/issues/4#issuecomment-2286978158) in [bharatr21/HackerNews-Scraper](https://github.com/bharatr21/HackerNews-Scraper)
+1. 🎉 Merged PR [#1](https://github.com/bharatr21/skills-test-with-actions/pull/1) in [bharatr21/skills-test-with-actions](https://github.com/bharatr21/skills-test-with-actions)
 <!--END_SECTION:activity-->
 
 ---
