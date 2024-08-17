@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bharatr21/skills-test-with-actions/pull/1) in [bharatr21/skills-test-with-actions](https://github.com/bharatr21/skills-test-with-actions)
+1. 💪 Opened PR [#1](https://github.com/bharatr21/skills-deploy-to-azure/pull/1) in [bharatr21/skills-deploy-to-azure](https://github.com/bharatr21/skills-deploy-to-azure)
 <!--END_SECTION:activity-->
 
 ---
