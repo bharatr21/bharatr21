@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/skills/write-javascript-actions/pull/50) in [skills/write-javascript-actions](https://github.com/skills/write-javascript-actions)
+1. 🎉 Merged PR [#1](https://github.com/bharatr21/forage-jpmc-swe-task-2/pull/1) in [bharatr21/forage-jpmc-swe-task-2](https://github.com/bharatr21/forage-jpmc-swe-task-2)
 <!--END_SECTION:activity-->
 
 ---
