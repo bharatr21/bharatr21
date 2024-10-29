@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bharatr21/forage-jpmc-swe-task-2/pull/1) in [bharatr21/forage-jpmc-swe-task-2](https://github.com/bharatr21/forage-jpmc-swe-task-2)
+1. 🗣 Commented on [#17354](https://github.com/calcom/cal.com/issues/17354#issuecomment-2442682168) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
 
 ---
