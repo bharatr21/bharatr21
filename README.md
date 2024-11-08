@@ -67,7 +67,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17354](https://github.com/calcom/cal.com/issues/17354#issuecomment-2442682168) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 💪 Opened PR [#3](https://github.com/onyekaugochukwu/canary/pull/3) in [onyekaugochukwu/canary](https://github.com/onyekaugochukwu/canary)
 <!--END_SECTION:activity-->
 
 ---
