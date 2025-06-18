@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
 
-- 🔭 I’m currently exploring [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/) as well as courses from [ActiveLoop](https://learn.activeloop.ai/)
-- 🌱 I’m currently learning Machine Learning Techniques using [PyTorch](http://github.com/pytorch/pytorch/) and [TensorFlow](https://github.com/tensorflow/tensorflow) supplemented by the [FastAI Course](https://course.fast.ai/).
+- 🔭 I’m currently exploring [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and learning about [AI Agents](https://hf.co/learn/agents-course) and the [Model Context Protocol](https://modelcontextprotocol.io/) through an [MCP Course](https://hf.co/learn/mcp-course/)
 - 💬 Ask me about anything [here](https://github.com/bharatr21/bharatr21/issues)
-
-I'm a contributor to [HacktoberFest 2023](https://hacktoberfest.com/)
-[![@bharatr's Holopin board](https://holopin.me/bharatr)](https://holopin.io/@bharatr)
 
 
 <img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/700/1*6rWaYPYOc7MDefBQQKdfUw.png" />
