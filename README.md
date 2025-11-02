@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bharatr21/skills-hello-github-actions/pull/3) in [bharatr21/skills-hello-github-actions](https://github.com/bharatr21/skills-hello-github-actions)
+1. 🗣 Commented on [#1](https://github.com/bharatr21/mcp-nvidia/pull/1#issuecomment-3477479288) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
 <!--END_SECTION:activity-->
 
 ---
