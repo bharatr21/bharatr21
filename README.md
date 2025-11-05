@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/bharatr21/mcp-nvidia/pull/1#issuecomment-3479208955) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
+1. 🗣 Commented on [#1](https://github.com/bharatr21/mcp-nvidia/pull/1#issuecomment-3488118821) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
 <!--END_SECTION:activity-->
 
 ---
