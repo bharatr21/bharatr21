@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0: SDK Generation, MCP Resources, and Modular Architecture](https://github.com/bharatr21/mcp-nvidia/releases/tag/v0.4.0) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
+1. 💪 Opened PR [#1292](undefined) in [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
 <!--END_SECTION:activity-->
 
 ---
