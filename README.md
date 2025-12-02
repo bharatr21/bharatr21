@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1292](https://github.com/NVIDIA/cuda-python/pull/1292#issuecomment-3594764086) in [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
+1. 🗣 Commented on [#1292](https://github.com/NVIDIA/cuda-python/pull/1292#issuecomment-3602968279) in [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
 <!--END_SECTION:activity-->
 
 ---
