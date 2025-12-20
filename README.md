@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32904](undefined) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+1. 💪 Opened PR [#6](undefined) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
 <!--END_SECTION:activity-->
 
 ---
