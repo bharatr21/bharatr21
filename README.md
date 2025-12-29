@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [bharatr21/chat-with-your-docs](https://github.com/bharatr21/chat-with-your-docs)
+1. 🗣 Commented on [#4](https://github.com/bharatr21/chat-with-your-docs/pull/4#issuecomment-3695124533) in [bharatr21/chat-with-your-docs](https://github.com/bharatr21/chat-with-your-docs)
 <!--END_SECTION:activity-->
 
 ---
