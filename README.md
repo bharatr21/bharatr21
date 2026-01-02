@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32979](https://github.com/scikit-learn/scikit-learn/pull/32979) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+1. 💪 Opened PR [#32985](https://github.com/scikit-learn/scikit-learn/pull/32985) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 <!--END_SECTION:activity-->
 
 ---
