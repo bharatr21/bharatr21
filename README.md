@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.5.0 - MCP UI with HTMX](https://github.com/bharatr21/mcp-nvidia/releases/tag/v0.5.0) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
+1. 🎉 Merged PR [#32985](https://github.com/scikit-learn/scikit-learn/pull/32985) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 <!--END_SECTION:activity-->
 
 ---
