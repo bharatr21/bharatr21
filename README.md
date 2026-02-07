@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/bharatr21/clinical-trials-agent/pull/3) in [bharatr21/clinical-trials-agent](https://github.com/bharatr21/clinical-trials-agent)
+1. 💪 Opened PR [#4](https://github.com/bharatr21/clinical-trials-agent/pull/4) in [bharatr21/clinical-trials-agent](https://github.com/bharatr21/clinical-trials-agent)
 <!--END_SECTION:activity-->
 
 ---
