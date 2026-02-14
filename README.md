@@ -41,9 +41,9 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Bharat's Github Stats](https://github-readme-stats.vercel.app/api?username=bharatr21&show_icons=true&theme=radical)](https://github.com/bharatr21/github-readme-stats)
+<!-- [![Bharat's Github Stats](https://github-readme-stats.vercel.app/api?username=bharatr21&show_icons=true&theme=radical)](https://github.com/bharatr21/github-readme-stats) -->
 
-This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+<!-- This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Bharat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharatr21&theme=dark)](https://git.io/streak-stats)
 
