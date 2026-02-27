@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/bharatr21/clinical-trials-agent/pull/5) in [bharatr21/clinical-trials-agent](https://github.com/bharatr21/clinical-trials-agent)
+1. 🎉 Merged PR [#6](https://github.com/bharatr21/clinical-trials-agent/pull/6) in [bharatr21/clinical-trials-agent](https://github.com/bharatr21/clinical-trials-agent)
 <!--END_SECTION:activity-->
 
 ---
