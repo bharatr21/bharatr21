@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#206](https://github.com/AdobeDocs/express-add-ons-docs/pull/206) in [AdobeDocs/express-add-ons-docs](https://github.com/AdobeDocs/express-add-ons-docs)
+1. 💪 Opened PR [#18](https://github.com/adobe/generator-app-remote-mcp-server-generic/pull/18) in [adobe/generator-app-remote-mcp-server-generic](https://github.com/adobe/generator-app-remote-mcp-server-generic)
 <!--END_SECTION:activity-->
 
 ---
