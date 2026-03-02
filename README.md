@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/adobe/generator-app-remote-mcp-server-generic/pull/18) in [adobe/generator-app-remote-mcp-server-generic](https://github.com/adobe/generator-app-remote-mcp-server-generic)
+1. 🎉 Merged PR [#7](https://github.com/bharatr21/clinical-trials-agent/pull/7) in [bharatr21/clinical-trials-agent](https://github.com/bharatr21/clinical-trials-agent)
 <!--END_SECTION:activity-->
 
 ---
