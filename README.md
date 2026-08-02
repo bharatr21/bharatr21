@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35585](https://github.com/BerriAI/litellm/pull/35585) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. 💪 Opened PR [#35587](https://github.com/BerriAI/litellm/pull/35587) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 ---
