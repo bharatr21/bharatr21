@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35587](https://github.com/BerriAI/litellm/pull/35587) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. 🗣 Commented on [#6692](https://github.com/google/adk-python/issues/6692#issuecomment-5269035964) in [google/adk-python](https://github.com/google/adk-python)
 <!--END_SECTION:activity-->
 
 ---
