@@ -63,7 +63,7 @@ This introduction was taken from [here](https://gifer.com/en/8Pu6)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6692](https://github.com/google/adk-python/issues/6692#issuecomment-5269035964) in [google/adk-python](https://github.com/google/adk-python)
+1. 🗣 Commented on [#8](https://github.com/bharatr21/mcp-nvidia/pull/8#issuecomment-5648133355) in [bharatr21/mcp-nvidia](https://github.com/bharatr21/mcp-nvidia)
 <!--END_SECTION:activity-->
 
 ---
