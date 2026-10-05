@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
+Hi, I'm Bharat, an AI Engineer working on Agents and Infrastructure.
 
-- 🔭 I’m currently exploring [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and learning about [AI Agents](https://hf.co/learn/agents-course) and the [Model Context Protocol](https://modelcontextprotocol.io/) through an [MCP Course](https://hf.co/learn/mcp-course/)
+- 🔭 I’m currently exploring [Large Language Models](https://deepmind.google/models/gemma/gemma-4/) and learning about [AI Agents](https://hf.co/learn/agents-course) and the [Model Context Protocol](https://modelcontextprotocol.io/) through an [MCP Course](https://hf.co/learn/mcp-course/)
 - 💬 Ask me about anything [here](https://github.com/bharatr21/bharatr21/issues)
 
 
